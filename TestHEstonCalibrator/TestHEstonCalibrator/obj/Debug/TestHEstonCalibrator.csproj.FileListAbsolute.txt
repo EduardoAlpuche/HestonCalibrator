@@ -1,0 +1,7 @@
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\obj\Debug\TestHEstonCalibrator.csprojAssemblyReference.cache
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\obj\Debug\TestHEstonCalibrator.csproj.CoreCompileInputs.cache
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\bin\Debug\TestHEstonCalibrator.exe.config
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\bin\Debug\TestHEstonCalibrator.exe
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\bin\Debug\TestHEstonCalibrator.pdb
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\obj\Debug\TestHEstonCalibrator.exe
+C:\Users\pUcH\source\repos\TestHEstonCalibrator\TestHEstonCalibrator\obj\Debug\TestHEstonCalibrator.pdb
